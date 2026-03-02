@@ -346,6 +346,10 @@ time learning it. There are some graphical user interfaces and IDE integrations
 which can make it easier to work with Git. You can find a list of them
 [here](https://git-scm.com/downloads/guis).
 
+**How**
+
+Use [semantic versioning](https://semver.org/) for concrete version declarations.
+
 **Warning** :warning:
 
 Most common mistake when using git is to not ignoring the files that should not be tracked. You can _ignore_ the files that should not be on the repository by adding them to the `.gitignore` file. You can read more about it [here](https://git-scm.com/docs/gitignore).
